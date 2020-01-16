@@ -6,6 +6,7 @@ Built using Facebook's [create-react-app](https://github.com/facebook/create-rea
 ## Technology
 - React
 - Styled Components
+- TailwindCSS
 - Storybook
 - Jest
 - ESlint / Airbnb rules
